@@ -1,0 +1,25 @@
+[1.903s] Invoking command in '/home/aadil/robotics/ros2_ws/build/my_first_pkg': PYTHONPATH=/home/aadil/robotics/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aadil/robotics/ros2_ws/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aadil/robotics/ros2_ws/build/my_first_pkg/build --no-deps symlink_data
+[2.397s] running develop
+[2.702s] running egg_info
+[2.702s] creating my_first_pkg.egg-info
+[2.740s] writing my_first_pkg.egg-info/PKG-INFO
+[2.740s] writing dependency_links to my_first_pkg.egg-info/dependency_links.txt
+[2.740s] writing entry points to my_first_pkg.egg-info/entry_points.txt
+[2.741s] writing requirements to my_first_pkg.egg-info/requires.txt
+[2.741s] writing top-level names to my_first_pkg.egg-info/top_level.txt
+[2.741s] writing manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[2.827s] reading manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[2.828s] writing manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[2.877s] running build_ext
+[2.878s] Creating /home/aadil/robotics/ros2_ws/install/my_first_pkg/lib/python3.12/site-packages/my-first-pkg.egg-link (link to .)
+[2.879s] Installing node_example script to /home/aadil/robotics/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[2.879s] Installing turtle_controler script to /home/aadil/robotics/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[2.880s] 
+[2.880s] Installed /home/aadil/robotics/ros2_ws/build/my_first_pkg
+[2.880s] running symlink_data
+[2.880s] creating /home/aadil/robotics/ros2_ws/install/my_first_pkg/share/ament_index
+[2.881s] creating /home/aadil/robotics/ros2_ws/install/my_first_pkg/share/ament_index/resource_index
+[2.881s] creating /home/aadil/robotics/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[2.881s] symbolically linking /home/aadil/robotics/ros2_ws/build/my_first_pkg/resource/my_first_pkg -> /home/aadil/robotics/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[2.881s] symbolically linking /home/aadil/robotics/ros2_ws/build/my_first_pkg/package.xml -> /home/aadil/robotics/ros2_ws/install/my_first_pkg/share/my_first_pkg
+[2.937s] Invoked command in '/home/aadil/robotics/ros2_ws/build/my_first_pkg' returned '0': PYTHONPATH=/home/aadil/robotics/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aadil/robotics/ros2_ws/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aadil/robotics/ros2_ws/build/my_first_pkg/build --no-deps symlink_data

@@ -1,0 +1,3 @@
+[console_scripts]
+node_example = my_first_pkg.node_example:main
+turtle_controler = my_first_pkg.turtle_controler:main
